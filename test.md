@@ -12,7 +12,7 @@ The content between the lines below demonstrates the use of inline code within a
 
 ---
 
-````HTML
+````Javascript
 console.log(<mark>"sometext"</mark>);
 
 alert("some other text");

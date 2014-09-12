@@ -13,7 +13,7 @@ The content between the lines below demonstrates the use of inline code within a
 ---
 
 ````Javascript
-console.log(<mark>"sometext"</mark>);
-
-alert("some other text");
+function test() {
+  <mark> console.log("notice the blank line before this function?"); </mark>
+}
 ````

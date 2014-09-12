@@ -14,6 +14,6 @@ The content between the lines below demonstrates the use of inline code within a
 
 ````Javascript
 function test() {
-  <mark> console.log("notice the blank line before this function?"); </mark>
+  <mark> console.log("This is a test example"); </mark>
 }
 ````
